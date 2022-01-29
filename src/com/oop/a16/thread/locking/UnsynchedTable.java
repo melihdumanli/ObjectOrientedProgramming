@@ -1,4 +1,4 @@
-package com.oop.a16.threadsynchronization;
+package com.oop.a16.thread.locking;
 
 public class UnsynchedTable implements Testable{
     public void print(int num){

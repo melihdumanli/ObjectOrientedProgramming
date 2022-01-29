@@ -1,4 +1,4 @@
-package com.oop.a16.threadsynchronization;
+package com.oop.a16.thread.locking;
 
 public class Second extends Thread{
     private Testable t;
